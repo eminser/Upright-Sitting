@@ -22,3 +22,6 @@ For those who have no one to warn, it's time to enjoy the benefits of image proc
 
 
 A script, based on OpenCV and Mediapipe libraries was prepared for this image-processing system. OpenCV is an open-source library widely used in image-processing applications. Mediapipe, on the other hand, is an open-source framework for machine learning solutions created by Google.
+
+
+![image](https://user-images.githubusercontent.com/73931928/219616024-e22c5565-f5ec-4b75-912b-6569b4277288.png)
