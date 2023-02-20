@@ -1,5 +1,6 @@
 While working at a desk, sometimes when our focus shifts to the subject of work, we inevitably lose our healthy upright sitting position. We slouch, drop our shoulders, bend our necks, and continue to work in this position for minutes without noticing.
 
+![video1](https://user-images.githubusercontent.com/73931928/220034243-0aec32b1-1c86-49e2-8ee3-99f4cdaddf08.gif)
 
 This situation is extremely dangerous for the health of the spine. Because maintaining an upright sitting position;
 
@@ -25,3 +26,4 @@ A script, based on OpenCV and Mediapipe libraries was prepared for this image-pr
 
 
 ![image](https://user-images.githubusercontent.com/73931928/219616024-e22c5565-f5ec-4b75-912b-6569b4277288.png)
+
